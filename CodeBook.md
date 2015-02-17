@@ -1,8 +1,8 @@
 # Getting and Cleaning Data – Course Project
  
 
-Author : Els Schepers
-Date : 17.02.2015
+* Author : Els Schepers
+* Date : 17.02.2015
 
 
 ## Introduction
